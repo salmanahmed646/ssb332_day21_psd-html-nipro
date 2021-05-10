@@ -1,0 +1,316 @@
+/* Custom Media Start */
+/* Extra Extra Small */
+@media (max-width: 419.98px) {
+  /* CAption Start */
+  .custom_img img {
+    height: 250px;
+  }
+  .c_c_custom {
+    width: 100%;
+    height: 89%;
+    left: 0;
+    right: 0;
+    padding: 5px;
+  }
+  .c_c_custom h1 {
+    font-size: 29px;
+  }
+  .c_c_custom p {
+    margin: 2px 0;
+  }
+  /* CAption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+  }
+  .default-btn button {
+    width: 130px;
+    height: 30px;
+    font-size: 14px;
+  }
+  .default-btn button i {
+    left: 2%;
+  }
+  /* Button ENd */
+  /* Prev-Next Start */
+  .control_prev_c {
+    left: 2%;
+  }
+  .control_next_c {
+    left: 29.2%;
+  }
+  /* Prev-Next End */
+}
+/* Extra Small  */
+@media (min-width: 420px) and (max-width: 575.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 14.6%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .custom_img img {
+    height: 235px;
+  }
+  .c_c_custom {
+    padding: 15px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    height: 85%;
+  }
+  .c_c_custom h1 {
+    font-size: 30px;
+  }
+  .c_c_custom p {
+    margin: 5px 0;
+    line-height: 20px;
+  }
+  .font_p {
+    font-size: 14px;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+    position: relative;
+    left: -5%;
+  }
+  .default-btn button {
+    width: 140px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .default-btn button i {
+    left: 4%;
+  }
+  /* Button End */
+  /* Prev-Next Start */
+  .control_prev_c {
+    left: 4%;
+  }
+  .control_next_c {
+    left: 22.6%;
+  }
+  /* Prev-Next End */
+}
+/* Custom Media End */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 23.2%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 70%;
+    height: 85%;
+  }
+  .c_c_custom h1 {
+    font-size: 30px;
+  }
+  .c_c_custom p {
+    margin: 15px 0;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+  }
+  .default-btn button {
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+  }
+  /* Button End */
+  /* Prev-NExt Start */
+  .control_next_c {
+    left: 29.2%;
+  }
+  /* Prev-NExt End */
+  /* Slider-Section End */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Header-Start */
+  .menu {
+    margin-top: 10px;
+  }
+  .menu ul li a {
+    padding: 6px 0 !important;
+  }
+  /* Search-Start */
+  .search_menu[data-bs-popper] {
+    left: -10px;
+  }
+  .btn_padding {
+    padding: 0;
+  }
+  /* Search-End */
+  /* Header-End */
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 21.2%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 70%;
+    height: 90%;
+  }
+  .c_c_custom h1 {
+    font-size: 40px;
+  }
+  .c_c_custom p {
+    margin: 15px 0;
+  }
+  /* Caption End */
+  /* Button Start */
+  .default-btn {
+    text-align: right;
+    margin-top: 25px;
+  }
+  /* Button End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 26.2%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 20%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 45%;
+    height: 90%;
+  }
+  .c_c_custom h1 {
+    font-size: 40px;
+  }
+  .c_c_custom p {
+    margin: 20px 0;
+  }
+  /* Caption End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 24%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 19%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom {
+    width: 44%;
+    height: 92%;
+  }
+  .c_c_custom h1 {
+    font-size: 50px;
+  }
+  .c_c_custom p {
+    margin: 25px 0;
+  }
+  /* Caption End */
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 22%;
+  }
+  /* Prev-Next End */
+  /* Slider-Section End */
+}
+
+/* Extre Extra large devices (Extra Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* Slider-Section Start */
+  /* Indicator Start */
+  .custom_indicator {
+    left: 18%;
+  }
+  /* Indicator End */
+  /* Caption Start */
+  .c_c_custom h1 {
+    font-size: 56px;
+  }
+  .c_c_custom {
+    height: 94%;
+  }
+  /* Caption End */
+  /* Button start */
+  .c_c_custom h1 {
+    font-size: 56px;
+    margin-bottom: 50px;
+  }
+  .c_c_custom p {
+    margin: 0;
+  }
+  .default-btn button {
+    margin-top: 50px;
+  }
+  /* Prev-Next Start */
+  .control_next_c {
+    left: 20.3%;
+  }
+  /* Prev-Next End */
+  /* Button End */
+  /* Slider-Section End */
+}
